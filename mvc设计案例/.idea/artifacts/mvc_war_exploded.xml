@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mvc设计案例:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/mvc_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="mvc设计案例/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mvc设计案例" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="C:/Program Files (x86)/MySQL/Connector.J 5.1/mysql-connector-java-5.1.40-bin.jar" />
+          <element id="file-copy" path="D:/JAVA   JDK/OpenSource/commons/commons-dbutils-1.7/commons-dbutils-1.7.jar" />
+          <element id="file-copy" path="D:/JAVA   JDK/c3p0-0.9.2.1/lib/c3p0-0.9.2.1.jar" />
+          <element id="file-copy" path="D:/tomcat服务器/apache-tomcat-8.5.37/lib/jsp-api.jar" />
+          <element id="file-copy" path="D:/tomcat服务器/apache-tomcat-8.5.37/lib/servlet-api.jar" />
+          <element id="file-copy" path="D:/JAVA   JDK/OpenSource/commons-pool-1.6.jar" />
+          <element id="file-copy" path="D:/JAVA   JDK/OpenSource/commons/commons-logging.jar" />
+          <element id="file-copy" path="D:/tomcat服务器/apache-tomcat-8.5.37/lib/tomcat-util.jar" />
+          <element id="file-copy" path="D:/tomcat服务器/apache-tomcat-8.5.37/lib/tomcat-api.jar" />
+          <element id="file-copy" path="D:/tomcat服务器/apache-tomcat-8.5.37/lib/tomcat-dbcp.jar" />
+          <element id="file-copy" path="D:/JAVA   JDK/c3p0-0.9.2.1/lib/mchange-commons-java-0.2.3.4.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
